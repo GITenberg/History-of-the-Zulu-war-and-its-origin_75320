@@ -1,0 +1,33 @@
+_repo: History-of-the-Zulu-war-and-its-origin_75320
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Durnford, Edward
+    gutenberg_agent_id: '57946'
+    url: http://www.gutenberg.org/2009/agents/57946
+creator:
+  author:
+    agent_name: Colenso, Frances Ellen
+    gutenberg_agent_id: '57945'
+    url: http://www.gutenberg.org/2009/agents/57945
+description: ''
+gutenberg_issued: '2025-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75320'
+language: en
+pgterms:marc904: https://archive.org/details/historyofzuluwar00colerich
+pgterms:marc905: 20230225102151colenso
+pgterms:marc906: '1880'
+pgterms:marc907: gb
+production_note: Peter Becker, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bChapman and Hall, $c1880.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: History of the Zulu war and its origin
+url: http://www.gutenberg.org/ebooks/75320
