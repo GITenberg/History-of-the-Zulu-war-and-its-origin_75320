@@ -5,12 +5,17 @@ contributor:
     agent_name: Durnford, Edward
     gutenberg_agent_id: '57946'
     url: http://www.gutenberg.org/2009/agents/57946
+covers:
+- cover_type: archival
+  image_path: 75320-h/images/cover.jpg
 creator:
   author:
     agent_name: Colenso, Frances Ellen
     gutenberg_agent_id: '57945'
     url: http://www.gutenberg.org/2009/agents/57945
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75320#History-of-the-Zulu-war-and-its-origin
 gutenberg_issued: '2025-02-08'
 gutenberg_type: Text
 identifiers:
